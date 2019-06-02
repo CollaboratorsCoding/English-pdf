@@ -1,5 +1,5 @@
 {
-  "name": "english_pdf",
+  "name": "english_pdff",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -69,7 +69,6 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
-
   "devDependencies": {
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.1"
